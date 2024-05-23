@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        business_unit: ["business_unit_1"] 
+        business_unit: ["ml_business_unit_1"] 
     permissions: 
       actions: read
       contents: write

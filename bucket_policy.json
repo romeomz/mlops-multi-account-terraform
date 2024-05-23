@@ -1,0 +1,12 @@
+{
+        "Version": "2012-10-17",
+        "Statement": [
+            {
+                "Sid": "DenyDeletingTerraformStateFiles",
+                "Effect": "Deny",
+                "Principal": "*",
+                "Action": "s3:DeleteObject",
+                "Resource": "arn:aws:s3:::terraform-state-preprod-eu-west-2-498231422350/*"
+            }
+        ]
+    }
