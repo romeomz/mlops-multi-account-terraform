@@ -1,0 +1,16 @@
+[
+    {
+        "SET_NAME": "first-example",
+        "DEV_ACCOUNT": "498231422350",
+        "PREPROD_ACCOUNT": "498231422350",
+        "PROD_ACCOUNT": "498231422350",
+        "DEPLOYMENT_REGION":"eu-central-1"
+    },
+    {
+        "SET_NAME": "second-example",
+        "DEV_ACCOUNT": "498231422350",
+        "PREPROD_ACCOUNT": "498231422350",
+        "PROD_ACCOUNT": "498231422350",
+        "DEPLOYMENT_REGION":"eu-central-1"
+    }
+]
